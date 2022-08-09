@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Sourabh-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sourabh-yellow)](https://stackoverflow.com/users/19618438/sourabh-deshmukh)
 
-Learning some cool web development stuff on Edureka. It includes wide range of skills that like back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Learning some cool web development stuff on Edureka. It includes wide range of skills like back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/SourabhD1111/count.svg)
