@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-TheComedySketches-red)](https://www.youtube.com/c/thecomedysketches)
 [![Linkedin Badge](https://img.shields.io/badge/-Sourabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sourabh-deshmukh-6b123a231/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Sourabh-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sourabh-yellow)](https://stackoverflow.com/users/19618438/sourabh-deshmukh)
 
 I'm
